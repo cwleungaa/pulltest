@@ -1,0 +1,1 @@
+print("The first original sentence in git.")
